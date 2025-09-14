@@ -5,3 +5,6 @@ scikit-learn
 joblib
 python-whois
 confusable-homoglyphs
+beautifulsoup4
+lxml
+requests
