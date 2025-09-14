@@ -10,7 +10,7 @@ nigerian_banks = [
     "accessbankplc.com", "gtbank.com", "zenithbank.com", "firstbanknigeria.com",
     "uba.com", "fidelitybank.ng", "unionbankng.com", "stanbicibtcbank.com",
     "ecobank.com", "polarisbanklimited.com", "providusbank.com", "jaizbankplc.com",
-    "wema.ng", "heritagebank.com", "sterling.ng", "keystonebankng.com", "fcmb.com"
+    "wema.ng", "heritagebank.com", "sterling.ng", "keystonebankng.com", "fcmb.com", "streamliit.app, "chrome.com" "
 ]
 
 # ✅ Nigerian Universities & Oyo Schools
