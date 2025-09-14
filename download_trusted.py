@@ -19,7 +19,7 @@ nigerian_universities = [
     "unilorin.edu.ng", "unn.edu.ng", "abu.edu.ng", "buk.edu.ng", "futa.edu.ng",
     "lautech.edu.ng", "uniosun.edu.ng", "osunpoly.edu.ng", "eksu.edu.ng", "eksuportal.eksu.edu.ng",
     "unimed.edu.ng", "uniosun.edu.ng", "uniabuja.edu.ng", "noun.edu.ng", "unilag.edu.ng",
-    "oysconme.edu.ng", "oysctech.edu.ng", "ibpoly.edu.ng"
+    "oysconme.edu.ng", "oyscatech.edu.ng", "ibpoly.edu.ng"
 ]
 
 # ✅ Popular Vendors (global & Nigerian)
@@ -85,7 +85,7 @@ alternative = [
     "portal.jamb.gov.ng/changeOfCourse_Inst.htm", "portal.jamb.gov.ng/changeName.htm",
     "portal.jamb.gov.ng/changeState.htm", "portal.jamb.gov.ng/CheckMatriculationList",
     "portal.jamb.gov.ng/efacility", "efacility.jamb.gov.ng", "efacility.jamb.gov.ng/QueryPayment",
-    "efacility.jamb.gov.ng/buypin", "efacility.jamb.gov.ng/ValidateeMail",
+    "efacility.jamb.gov.ng/buypin", "efacility.jamb.gov.ng/ValidateeMail", "https://apqr87fcq2tzupdpoownzn.streamlit.app",
     "slipsprinting.jamb.gov.ng/PrintExaminationSlip", "www.jamb.gov.ng/caps","neco.gov.ng", "www.neco.gov.ng", "mynecoexams.com/novdec", "result.neco.gov.ng","nabteb.gov.ng", "eworld.nabteb.gov.ng","waecresult.org", "waecresultchecker.com.ng", "waecresult.com.ng",
     "schoolinfo.com.ng", "myschoolgist.com", "nigerianscholars.com",
     "examrelief.com", "waecgce.com", "examplanet.com.ng","nigeria.gov.ng", "e.gov.ng", "osgf.gov.ng", "statehouse.gov.ng",
